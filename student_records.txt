@@ -1,0 +1,400 @@
+Aarav Sharma|BT24001|1001|A|Data Structures and Algorithms|BTech
+Ananya Verma|BT24002|1002|A|Data Structures and Algorithms|BTech
+Rahul Singh|BT24003|1003|A|Data Structures and Algorithms|BTech
+Priya Gupta|BT24004|1004|A|Data Structures and Algorithms|BTech
+Rohan Mehta|BT24005|1005|A|Database Management Systems|BTech
+Ishita Patel|BT24006|1006|A|Database Management Systems|BTech
+Kabir Joshi|BT24007|1007|A|Database Management Systems|BTech
+Meera Nair|BT24008|1008|A|Database Management Systems|BTech
+Arjun Malhotra|BT24009|1009|B|Operating Systems|BTech
+Sanya Kapoor|BT24010|1010|B|Operating Systems|BTech
+Vivaan Agarwal|BT24011|1011|B|Operating Systems|BTech
+Aditi Mishra|BT24012|1012|B|Operating Systems|BTech
+Aditya Rao|BT24013|1013|B|Computer Networks|BTech
+Kavya Iyer|BT24014|1014|B|Computer Networks|BTech
+Dhruv Khanna|BT24015|1015|B|Computer Networks|BTech
+Nisha Reddy|BT24016|1016|B|Computer Networks|BTech
+Kunal Bansal|BT24017|1017|C|Object Oriented Programming|BTech
+Pooja Saxena|BT24018|1018|C|Object Oriented Programming|BTech
+Reyansh Jain|BT24019|1019|C|Object Oriented Programming|BTech
+Sneha Kulkarni|BT24020|1020|C|Object Oriented Programming|BTech
+Yash Thakur|BT24021|1021|C|Software Engineering|BTech
+Simran Kaur|BT24022|1022|C|Software Engineering|BTech
+Manav Sethi|BT24023|1023|C|Software Engineering|BTech
+Tanya Goyal|BT24024|1024|C|Software Engineering|BTech
+Harsh Vardhan|BT24025|1025|D|Artificial Intelligence|BTech
+Neha Chauhan|BT24026|1026|D|Artificial Intelligence|BTech
+Devansh Arora|BT24027|1027|D|Artificial Intelligence|BTech
+Ritika Das|BT24028|1028|D|Artificial Intelligence|BTech
+Siddharth Bose|BT24029|1029|D|Theory of Computation|BTech
+Manya Shah|BT24030|1030|D|Theory of Computation|BTech
+Krishna Menon|BT24031|1031|D|Theory of Computation|BTech
+Shreya Pillai|BT24032|1032|D|Theory of Computation|BTech
+Aniket Yadav|BT24033|1033|A|Data Structures and Algorithms|BTech
+Ira Chawla|BT24034|1034|A|Data Structures and Algorithms|BTech
+Om Prakash|BT24035|1035|A|Data Structures and Algorithms|BTech
+Diya Deshmukh|BT24036|1036|A|Data Structures and Algorithms|BTech
+Pranav Tiwari|BT24037|1037|A|Database Management Systems|BTech
+Avni Bhatia|BT24038|1038|A|Database Management Systems|BTech
+Akhil Nambiar|BT24039|1039|A|Database Management Systems|BTech
+Muskan Ali|BT24040|1040|A|Database Management Systems|BTech
+Aarav Sharma Jr|BT24041|1041|B|Operating Systems|BTech
+Ananya Verma Jr|BT24042|1042|B|Operating Systems|BTech
+Rahul Singh Jr|BT24043|1043|B|Operating Systems|BTech
+Priya Gupta Jr|BT24044|1044|B|Operating Systems|BTech
+Rohan Mehta Jr|BT24045|1045|B|Computer Networks|BTech
+Ishita Patel Jr|BT24046|1046|B|Computer Networks|BTech
+Kabir Joshi Jr|BT24047|1047|B|Computer Networks|BTech
+Meera Nair Jr|BT24048|1048|B|Computer Networks|BTech
+Arjun Malhotra Jr|BT24049|1049|C|Object Oriented Programming|BTech
+Sanya Kapoor Jr|BT24050|1050|C|Object Oriented Programming|BTech
+Vivaan Agarwal Jr|BT24051|1051|C|Object Oriented Programming|BTech
+Aditi Mishra Jr|BT24052|1052|C|Object Oriented Programming|BTech
+Aditya Rao Jr|BT24053|1053|C|Software Engineering|BTech
+Kavya Iyer Jr|BT24054|1054|C|Software Engineering|BTech
+Dhruv Khanna Jr|BT24055|1055|C|Software Engineering|BTech
+Nisha Reddy Jr|BT24056|1056|C|Software Engineering|BTech
+Kunal Bansal Jr|BT24057|1057|D|Artificial Intelligence|BTech
+Pooja Saxena Jr|BT24058|1058|D|Artificial Intelligence|BTech
+Reyansh Jain Jr|BT24059|1059|D|Artificial Intelligence|BTech
+Sneha Kulkarni Jr|BT24060|1060|D|Artificial Intelligence|BTech
+Yash Thakur Jr|BT24061|1061|D|Theory of Computation|BTech
+Simran Kaur Jr|BT24062|1062|D|Theory of Computation|BTech
+Manav Sethi Jr|BT24063|1063|D|Theory of Computation|BTech
+Tanya Goyal Jr|BT24064|1064|D|Theory of Computation|BTech
+Harsh Vardhan Jr|BT24065|1065|A|Data Structures and Algorithms|BTech
+Neha Chauhan Jr|BT24066|1066|A|Data Structures and Algorithms|BTech
+Devansh Arora Jr|BT24067|1067|A|Data Structures and Algorithms|BTech
+Ritika Das Jr|BT24068|1068|A|Data Structures and Algorithms|BTech
+Siddharth Bose Jr|BT24069|1069|A|Database Management Systems|BTech
+Manya Shah Jr|BT24070|1070|A|Database Management Systems|BTech
+Krishna Menon Jr|BT24071|1071|A|Database Management Systems|BTech
+Shreya Pillai Jr|BT24072|1072|A|Database Management Systems|BTech
+Aniket Yadav Jr|BT24073|1073|B|Operating Systems|BTech
+Ira Chawla Jr|BT24074|1074|B|Operating Systems|BTech
+Om Prakash Jr|BT24075|1075|B|Operating Systems|BTech
+Diya Deshmukh Jr|BT24076|1076|B|Operating Systems|BTech
+Pranav Tiwari Jr|BT24077|1077|B|Computer Networks|BTech
+Avni Bhatia Jr|BT24078|1078|B|Computer Networks|BTech
+Akhil Nambiar Jr|BT24079|1079|B|Computer Networks|BTech
+Muskan Ali Jr|BT24080|1080|B|Computer Networks|BTech
+Aarav Sharma Kumar|BT24081|1081|C|Object Oriented Programming|BTech
+Ananya Verma Kumar|BT24082|1082|C|Object Oriented Programming|BTech
+Rahul Singh Kumar|BT24083|1083|C|Object Oriented Programming|BTech
+Priya Gupta Kumar|BT24084|1084|C|Object Oriented Programming|BTech
+Rohan Mehta Kumar|BT24085|1085|C|Software Engineering|BTech
+Ishita Patel Kumar|BT24086|1086|C|Software Engineering|BTech
+Kabir Joshi Kumar|BT24087|1087|C|Software Engineering|BTech
+Meera Nair Kumar|BT24088|1088|C|Software Engineering|BTech
+Arjun Malhotra Kumar|BT24089|1089|D|Artificial Intelligence|BTech
+Sanya Kapoor Kumar|BT24090|1090|D|Artificial Intelligence|BTech
+Vivaan Agarwal Kumar|BT24091|1091|D|Artificial Intelligence|BTech
+Aditi Mishra Kumar|BT24092|1092|D|Artificial Intelligence|BTech
+Aditya Rao Kumar|BT24093|1093|D|Theory of Computation|BTech
+Kavya Iyer Kumar|BT24094|1094|D|Theory of Computation|BTech
+Dhruv Khanna Kumar|BT24095|1095|D|Theory of Computation|BTech
+Nisha Reddy Kumar|BT24096|1096|D|Theory of Computation|BTech
+Kunal Bansal Kumar|BT24097|1097|A|Data Structures and Algorithms|BTech
+Pooja Saxena Kumar|BT24098|1098|A|Data Structures and Algorithms|BTech
+Reyansh Jain Kumar|BT24099|1099|A|Data Structures and Algorithms|BTech
+Sneha Kulkarni Kumar|BT24100|1100|A|Data Structures and Algorithms|BTech
+Yash Thakur Kumar|BB24001|1101|A|Principles of Management|BBA
+Simran Kaur Kumar|BB24002|1102|A|Principles of Management|BBA
+Manav Sethi Kumar|BB24003|1103|A|Principles of Management|BBA
+Tanya Goyal Kumar|BB24004|1104|A|Principles of Management|BBA
+Harsh Vardhan Kumar|BB24005|1105|A|Financial Accounting|BBA
+Neha Chauhan Kumar|BB24006|1106|A|Financial Accounting|BBA
+Devansh Arora Kumar|BB24007|1107|A|Financial Accounting|BBA
+Ritika Das Kumar|BB24008|1108|A|Financial Accounting|BBA
+Siddharth Bose Kumar|BB24009|1109|B|Business Economics|BBA
+Manya Shah Kumar|BB24010|1110|B|Business Economics|BBA
+Krishna Menon Kumar|BB24011|1111|B|Business Economics|BBA
+Shreya Pillai Kumar|BB24012|1112|B|Business Economics|BBA
+Aniket Yadav Kumar|BB24013|1113|B|Marketing Management|BBA
+Ira Chawla Kumar|BB24014|1114|B|Marketing Management|BBA
+Om Prakash Kumar|BB24015|1115|B|Marketing Management|BBA
+Diya Deshmukh Kumar|BB24016|1116|B|Marketing Management|BBA
+Pranav Tiwari Kumar|BB24017|1117|C|Human Resource Management|BBA
+Avni Bhatia Kumar|BB24018|1118|C|Human Resource Management|BBA
+Akhil Nambiar Kumar|BB24019|1119|C|Human Resource Management|BBA
+Muskan Ali Kumar|BB24020|1120|C|Human Resource Management|BBA
+Aarav Sharma Singh|BB24021|1121|C|Business Communication|BBA
+Ananya Verma Singh|BB24022|1122|C|Business Communication|BBA
+Rahul Singh Singh|BB24023|1123|C|Business Communication|BBA
+Priya Gupta Singh|BB24024|1124|C|Business Communication|BBA
+Rohan Mehta Singh|BB24025|1125|D|Business Statistics|BBA
+Ishita Patel Singh|BB24026|1126|D|Business Statistics|BBA
+Kabir Joshi Singh|BB24027|1127|D|Business Statistics|BBA
+Meera Nair Singh|BB24028|1128|D|Business Statistics|BBA
+Arjun Malhotra Singh|BB24029|1129|D|Business Law|BBA
+Sanya Kapoor Singh|BB24030|1130|D|Business Law|BBA
+Vivaan Agarwal Singh|BB24031|1131|D|Business Law|BBA
+Aditi Mishra Singh|BB24032|1132|D|Business Law|BBA
+Aditya Rao Singh|BB24033|1133|A|Principles of Management|BBA
+Kavya Iyer Singh|BB24034|1134|A|Principles of Management|BBA
+Dhruv Khanna Singh|BB24035|1135|A|Principles of Management|BBA
+Nisha Reddy Singh|BB24036|1136|A|Principles of Management|BBA
+Kunal Bansal Singh|BB24037|1137|A|Financial Accounting|BBA
+Pooja Saxena Singh|BB24038|1138|A|Financial Accounting|BBA
+Reyansh Jain Singh|BB24039|1139|A|Financial Accounting|BBA
+Sneha Kulkarni Singh|BB24040|1140|A|Financial Accounting|BBA
+Yash Thakur Singh|BB24041|1141|B|Business Economics|BBA
+Simran Kaur Singh|BB24042|1142|B|Business Economics|BBA
+Manav Sethi Singh|BB24043|1143|B|Business Economics|BBA
+Tanya Goyal Singh|BB24044|1144|B|Business Economics|BBA
+Harsh Vardhan Singh|BB24045|1145|B|Marketing Management|BBA
+Neha Chauhan Singh|BB24046|1146|B|Marketing Management|BBA
+Devansh Arora Singh|BB24047|1147|B|Marketing Management|BBA
+Ritika Das Singh|BB24048|1148|B|Marketing Management|BBA
+Siddharth Bose Singh|BB24049|1149|C|Human Resource Management|BBA
+Manya Shah Singh|BB24050|1150|C|Human Resource Management|BBA
+Krishna Menon Singh|BB24051|1151|C|Human Resource Management|BBA
+Shreya Pillai Singh|BB24052|1152|C|Human Resource Management|BBA
+Aniket Yadav Singh|BB24053|1153|C|Business Communication|BBA
+Ira Chawla Singh|BB24054|1154|C|Business Communication|BBA
+Om Prakash Singh|BB24055|1155|C|Business Communication|BBA
+Diya Deshmukh Singh|BB24056|1156|C|Business Communication|BBA
+Pranav Tiwari Singh|BB24057|1157|D|Business Statistics|BBA
+Avni Bhatia Singh|BB24058|1158|D|Business Statistics|BBA
+Akhil Nambiar Singh|BB24059|1159|D|Business Statistics|BBA
+Muskan Ali Singh|BB24060|1160|D|Business Statistics|BBA
+Aarav Sharma Verma|BB24061|1161|D|Business Law|BBA
+Ananya Verma Verma|BB24062|1162|D|Business Law|BBA
+Rahul Singh Verma|BB24063|1163|D|Business Law|BBA
+Priya Gupta Verma|BB24064|1164|D|Business Law|BBA
+Rohan Mehta Verma|BB24065|1165|A|Principles of Management|BBA
+Ishita Patel Verma|BB24066|1166|A|Principles of Management|BBA
+Kabir Joshi Verma|BB24067|1167|A|Principles of Management|BBA
+Meera Nair Verma|BB24068|1168|A|Principles of Management|BBA
+Arjun Malhotra Verma|BB24069|1169|A|Financial Accounting|BBA
+Sanya Kapoor Verma|BB24070|1170|A|Financial Accounting|BBA
+Vivaan Agarwal Verma|BB24071|1171|A|Financial Accounting|BBA
+Aditi Mishra Verma|BB24072|1172|A|Financial Accounting|BBA
+Aditya Rao Verma|BB24073|1173|B|Business Economics|BBA
+Kavya Iyer Verma|BB24074|1174|B|Business Economics|BBA
+Dhruv Khanna Verma|BB24075|1175|B|Business Economics|BBA
+Nisha Reddy Verma|BB24076|1176|B|Business Economics|BBA
+Kunal Bansal Verma|BB24077|1177|B|Marketing Management|BBA
+Pooja Saxena Verma|BB24078|1178|B|Marketing Management|BBA
+Reyansh Jain Verma|BB24079|1179|B|Marketing Management|BBA
+Sneha Kulkarni Verma|BB24080|1180|B|Marketing Management|BBA
+Yash Thakur Verma|BB24081|1181|C|Human Resource Management|BBA
+Simran Kaur Verma|BB24082|1182|C|Human Resource Management|BBA
+Manav Sethi Verma|BB24083|1183|C|Human Resource Management|BBA
+Tanya Goyal Verma|BB24084|1184|C|Human Resource Management|BBA
+Harsh Vardhan Verma|BB24085|1185|C|Business Communication|BBA
+Neha Chauhan Verma|BB24086|1186|C|Business Communication|BBA
+Devansh Arora Verma|BB24087|1187|C|Business Communication|BBA
+Ritika Das Verma|BB24088|1188|C|Business Communication|BBA
+Siddharth Bose Verma|BB24089|1189|D|Business Statistics|BBA
+Manya Shah Verma|BB24090|1190|D|Business Statistics|BBA
+Krishna Menon Verma|BB24091|1191|D|Business Statistics|BBA
+Shreya Pillai Verma|BB24092|1192|D|Business Statistics|BBA
+Aniket Yadav Verma|BB24093|1193|D|Business Law|BBA
+Ira Chawla Verma|BB24094|1194|D|Business Law|BBA
+Om Prakash Verma|BB24095|1195|D|Business Law|BBA
+Diya Deshmukh Verma|BB24096|1196|D|Business Law|BBA
+Pranav Tiwari Verma|BB24097|1197|A|Principles of Management|BBA
+Avni Bhatia Verma|BB24098|1198|A|Principles of Management|BBA
+Akhil Nambiar Verma|BB24099|1199|A|Principles of Management|BBA
+Muskan Ali Verma|BB24100|1200|A|Principles of Management|BBA
+Aarav Sharma Sharma|MB24001|1201|A|Financial Management|MBA
+Ananya Verma Sharma|MB24002|1202|A|Financial Management|MBA
+Rahul Singh Sharma|MB24003|1203|A|Financial Management|MBA
+Priya Gupta Sharma|MB24004|1204|A|Financial Management|MBA
+Rohan Mehta Sharma|MB24005|1205|A|Marketing Management|MBA
+Ishita Patel Sharma|MB24006|1206|A|Marketing Management|MBA
+Kabir Joshi Sharma|MB24007|1207|A|Marketing Management|MBA
+Meera Nair Sharma|MB24008|1208|A|Marketing Management|MBA
+Arjun Malhotra Sharma|MB24009|1209|B|Human Resource Management|MBA
+Sanya Kapoor Sharma|MB24010|1210|B|Human Resource Management|MBA
+Vivaan Agarwal Sharma|MB24011|1211|B|Human Resource Management|MBA
+Aditi Mishra Sharma|MB24012|1212|B|Human Resource Management|MBA
+Aditya Rao Sharma|MB24013|1213|B|Operations Management|MBA
+Kavya Iyer Sharma|MB24014|1214|B|Operations Management|MBA
+Dhruv Khanna Sharma|MB24015|1215|B|Operations Management|MBA
+Nisha Reddy Sharma|MB24016|1216|B|Operations Management|MBA
+Kunal Bansal Sharma|MB24017|1217|C|Business Analytics|MBA
+Pooja Saxena Sharma|MB24018|1218|C|Business Analytics|MBA
+Reyansh Jain Sharma|MB24019|1219|C|Business Analytics|MBA
+Sneha Kulkarni Sharma|MB24020|1220|C|Business Analytics|MBA
+Yash Thakur Sharma|MB24021|1221|C|Strategic Management|MBA
+Simran Kaur Sharma|MB24022|1222|C|Strategic Management|MBA
+Manav Sethi Sharma|MB24023|1223|C|Strategic Management|MBA
+Tanya Goyal Sharma|MB24024|1224|C|Strategic Management|MBA
+Harsh Vardhan Sharma|MB24025|1225|D|Managerial Economics|MBA
+Neha Chauhan Sharma|MB24026|1226|D|Managerial Economics|MBA
+Devansh Arora Sharma|MB24027|1227|D|Managerial Economics|MBA
+Ritika Das Sharma|MB24028|1228|D|Managerial Economics|MBA
+Siddharth Bose Sharma|MB24029|1229|D|Business Research Methods|MBA
+Manya Shah Sharma|MB24030|1230|D|Business Research Methods|MBA
+Krishna Menon Sharma|MB24031|1231|D|Business Research Methods|MBA
+Shreya Pillai Sharma|MB24032|1232|D|Business Research Methods|MBA
+Aniket Yadav Sharma|MB24033|1233|A|Financial Management|MBA
+Ira Chawla Sharma|MB24034|1234|A|Financial Management|MBA
+Om Prakash Sharma|MB24035|1235|A|Financial Management|MBA
+Diya Deshmukh Sharma|MB24036|1236|A|Financial Management|MBA
+Pranav Tiwari Sharma|MB24037|1237|A|Marketing Management|MBA
+Avni Bhatia Sharma|MB24038|1238|A|Marketing Management|MBA
+Akhil Nambiar Sharma|MB24039|1239|A|Marketing Management|MBA
+Muskan Ali Sharma|MB24040|1240|A|Marketing Management|MBA
+Aarav Sharma Jr|MB24041|1241|B|Human Resource Management|MBA
+Ananya Verma Jr|MB24042|1242|B|Human Resource Management|MBA
+Rahul Singh Jr|MB24043|1243|B|Human Resource Management|MBA
+Priya Gupta Jr|MB24044|1244|B|Human Resource Management|MBA
+Rohan Mehta Jr|MB24045|1245|B|Operations Management|MBA
+Ishita Patel Jr|MB24046|1246|B|Operations Management|MBA
+Kabir Joshi Jr|MB24047|1247|B|Operations Management|MBA
+Meera Nair Jr|MB24048|1248|B|Operations Management|MBA
+Arjun Malhotra Jr|MB24049|1249|C|Business Analytics|MBA
+Sanya Kapoor Jr|MB24050|1250|C|Business Analytics|MBA
+Vivaan Agarwal Jr|MB24051|1251|C|Business Analytics|MBA
+Aditi Mishra Jr|MB24052|1252|C|Business Analytics|MBA
+Aditya Rao Jr|MB24053|1253|C|Strategic Management|MBA
+Kavya Iyer Jr|MB24054|1254|C|Strategic Management|MBA
+Dhruv Khanna Jr|MB24055|1255|C|Strategic Management|MBA
+Nisha Reddy Jr|MB24056|1256|C|Strategic Management|MBA
+Kunal Bansal Jr|MB24057|1257|D|Managerial Economics|MBA
+Pooja Saxena Jr|MB24058|1258|D|Managerial Economics|MBA
+Reyansh Jain Jr|MB24059|1259|D|Managerial Economics|MBA
+Sneha Kulkarni Jr|MB24060|1260|D|Managerial Economics|MBA
+Yash Thakur Jr|MB24061|1261|D|Business Research Methods|MBA
+Simran Kaur Jr|MB24062|1262|D|Business Research Methods|MBA
+Manav Sethi Jr|MB24063|1263|D|Business Research Methods|MBA
+Tanya Goyal Jr|MB24064|1264|D|Business Research Methods|MBA
+Harsh Vardhan Jr|MB24065|1265|A|Financial Management|MBA
+Neha Chauhan Jr|MB24066|1266|A|Financial Management|MBA
+Devansh Arora Jr|MB24067|1267|A|Financial Management|MBA
+Ritika Das Jr|MB24068|1268|A|Financial Management|MBA
+Siddharth Bose Jr|MB24069|1269|A|Marketing Management|MBA
+Manya Shah Jr|MB24070|1270|A|Marketing Management|MBA
+Krishna Menon Jr|MB24071|1271|A|Marketing Management|MBA
+Shreya Pillai Jr|MB24072|1272|A|Marketing Management|MBA
+Aniket Yadav Jr|MB24073|1273|B|Human Resource Management|MBA
+Ira Chawla Jr|MB24074|1274|B|Human Resource Management|MBA
+Om Prakash Jr|MB24075|1275|B|Human Resource Management|MBA
+Diya Deshmukh Jr|MB24076|1276|B|Human Resource Management|MBA
+Pranav Tiwari Jr|MB24077|1277|B|Operations Management|MBA
+Avni Bhatia Jr|MB24078|1278|B|Operations Management|MBA
+Akhil Nambiar Jr|MB24079|1279|B|Operations Management|MBA
+Muskan Ali Jr|MB24080|1280|B|Operations Management|MBA
+Aarav Sharma Kumar|MB24081|1281|C|Business Analytics|MBA
+Ananya Verma Kumar|MB24082|1282|C|Business Analytics|MBA
+Rahul Singh Kumar|MB24083|1283|C|Business Analytics|MBA
+Priya Gupta Kumar|MB24084|1284|C|Business Analytics|MBA
+Rohan Mehta Kumar|MB24085|1285|C|Strategic Management|MBA
+Ishita Patel Kumar|MB24086|1286|C|Strategic Management|MBA
+Kabir Joshi Kumar|MB24087|1287|C|Strategic Management|MBA
+Meera Nair Kumar|MB24088|1288|C|Strategic Management|MBA
+Arjun Malhotra Kumar|MB24089|1289|D|Managerial Economics|MBA
+Sanya Kapoor Kumar|MB24090|1290|D|Managerial Economics|MBA
+Vivaan Agarwal Kumar|MB24091|1291|D|Managerial Economics|MBA
+Aditi Mishra Kumar|MB24092|1292|D|Managerial Economics|MBA
+Aditya Rao Kumar|MB24093|1293|D|Business Research Methods|MBA
+Kavya Iyer Kumar|MB24094|1294|D|Business Research Methods|MBA
+Dhruv Khanna Kumar|MB24095|1295|D|Business Research Methods|MBA
+Nisha Reddy Kumar|MB24096|1296|D|Business Research Methods|MBA
+Kunal Bansal Kumar|MB24097|1297|A|Financial Management|MBA
+Pooja Saxena Kumar|MB24098|1298|A|Financial Management|MBA
+Reyansh Jain Kumar|MB24099|1299|A|Financial Management|MBA
+Sneha Kulkarni Kumar|MB24100|1300|A|Financial Management|MBA
+Yash Thakur Kumar|MT24001|1301|A|Advanced Data Structures and Algorithms|MTech
+Simran Kaur Kumar|MT24002|1302|A|Advanced Data Structures and Algorithms|MTech
+Manav Sethi Kumar|MT24003|1303|A|Advanced Data Structures and Algorithms|MTech
+Tanya Goyal Kumar|MT24004|1304|A|Advanced Data Structures and Algorithms|MTech
+Harsh Vardhan Kumar|MT24005|1305|A|Advanced Operating Systems|MTech
+Neha Chauhan Kumar|MT24006|1306|A|Advanced Operating Systems|MTech
+Devansh Arora Kumar|MT24007|1307|A|Advanced Operating Systems|MTech
+Ritika Das Kumar|MT24008|1308|A|Advanced Operating Systems|MTech
+Siddharth Bose Kumar|MT24009|1309|B|Machine Learning|MTech
+Manya Shah Kumar|MT24010|1310|B|Machine Learning|MTech
+Krishna Menon Kumar|MT24011|1311|B|Machine Learning|MTech
+Shreya Pillai Kumar|MT24012|1312|B|Machine Learning|MTech
+Aniket Yadav Kumar|MT24013|1313|B|Deep Learning|MTech
+Ira Chawla Kumar|MT24014|1314|B|Deep Learning|MTech
+Om Prakash Kumar|MT24015|1315|B|Deep Learning|MTech
+Diya Deshmukh Kumar|MT24016|1316|B|Deep Learning|MTech
+Pranav Tiwari Kumar|MT24017|1317|C|Advanced Database Systems|MTech
+Avni Bhatia Kumar|MT24018|1318|C|Advanced Database Systems|MTech
+Akhil Nambiar Kumar|MT24019|1319|C|Advanced Database Systems|MTech
+Muskan Ali Kumar|MT24020|1320|C|Advanced Database Systems|MTech
+Aarav Sharma Singh|MT24021|1321|C|Cloud Computing|MTech
+Ananya Verma Singh|MT24022|1322|C|Cloud Computing|MTech
+Rahul Singh Singh|MT24023|1323|C|Cloud Computing|MTech
+Priya Gupta Singh|MT24024|1324|C|Cloud Computing|MTech
+Rohan Mehta Singh|MT24025|1325|D|Distributed Systems|MTech
+Ishita Patel Singh|MT24026|1326|D|Distributed Systems|MTech
+Kabir Joshi Singh|MT24027|1327|D|Distributed Systems|MTech
+Meera Nair Singh|MT24028|1328|D|Distributed Systems|MTech
+Arjun Malhotra Singh|MT24029|1329|D|Computer Vision|MTech
+Sanya Kapoor Singh|MT24030|1330|D|Computer Vision|MTech
+Vivaan Agarwal Singh|MT24031|1331|D|Computer Vision|MTech
+Aditi Mishra Singh|MT24032|1332|D|Computer Vision|MTech
+Aditya Rao Singh|MT24033|1333|A|Advanced Data Structures and Algorithms|MTech
+Kavya Iyer Singh|MT24034|1334|A|Advanced Data Structures and Algorithms|MTech
+Dhruv Khanna Singh|MT24035|1335|A|Advanced Data Structures and Algorithms|MTech
+Nisha Reddy Singh|MT24036|1336|A|Advanced Data Structures and Algorithms|MTech
+Kunal Bansal Singh|MT24037|1337|A|Advanced Operating Systems|MTech
+Pooja Saxena Singh|MT24038|1338|A|Advanced Operating Systems|MTech
+Reyansh Jain Singh|MT24039|1339|A|Advanced Operating Systems|MTech
+Sneha Kulkarni Singh|MT24040|1340|A|Advanced Operating Systems|MTech
+Yash Thakur Singh|MT24041|1341|B|Machine Learning|MTech
+Simran Kaur Singh|MT24042|1342|B|Machine Learning|MTech
+Manav Sethi Singh|MT24043|1343|B|Machine Learning|MTech
+Tanya Goyal Singh|MT24044|1344|B|Machine Learning|MTech
+Harsh Vardhan Singh|MT24045|1345|B|Deep Learning|MTech
+Neha Chauhan Singh|MT24046|1346|B|Deep Learning|MTech
+Devansh Arora Singh|MT24047|1347|B|Deep Learning|MTech
+Ritika Das Singh|MT24048|1348|B|Deep Learning|MTech
+Siddharth Bose Singh|MT24049|1349|C|Advanced Database Systems|MTech
+Manya Shah Singh|MT24050|1350|C|Advanced Database Systems|MTech
+Krishna Menon Singh|MT24051|1351|C|Advanced Database Systems|MTech
+Shreya Pillai Singh|MT24052|1352|C|Advanced Database Systems|MTech
+Aniket Yadav Singh|MT24053|1353|C|Cloud Computing|MTech
+Ira Chawla Singh|MT24054|1354|C|Cloud Computing|MTech
+Om Prakash Singh|MT24055|1355|C|Cloud Computing|MTech
+Diya Deshmukh Singh|MT24056|1356|C|Cloud Computing|MTech
+Pranav Tiwari Singh|MT24057|1357|D|Distributed Systems|MTech
+Avni Bhatia Singh|MT24058|1358|D|Distributed Systems|MTech
+Akhil Nambiar Singh|MT24059|1359|D|Distributed Systems|MTech
+Muskan Ali Singh|MT24060|1360|D|Distributed Systems|MTech
+Aarav Sharma Verma|MT24061|1361|D|Computer Vision|MTech
+Ananya Verma Verma|MT24062|1362|D|Computer Vision|MTech
+Rahul Singh Verma|MT24063|1363|D|Computer Vision|MTech
+Priya Gupta Verma|MT24064|1364|D|Computer Vision|MTech
+Rohan Mehta Verma|MT24065|1365|A|Advanced Data Structures and Algorithms|MTech
+Ishita Patel Verma|MT24066|1366|A|Advanced Data Structures and Algorithms|MTech
+Kabir Joshi Verma|MT24067|1367|A|Advanced Data Structures and Algorithms|MTech
+Meera Nair Verma|MT24068|1368|A|Advanced Data Structures and Algorithms|MTech
+Arjun Malhotra Verma|MT24069|1369|A|Advanced Operating Systems|MTech
+Sanya Kapoor Verma|MT24070|1370|A|Advanced Operating Systems|MTech
+Vivaan Agarwal Verma|MT24071|1371|A|Advanced Operating Systems|MTech
+Aditi Mishra Verma|MT24072|1372|A|Advanced Operating Systems|MTech
+Aditya Rao Verma|MT24073|1373|B|Machine Learning|MTech
+Kavya Iyer Verma|MT24074|1374|B|Machine Learning|MTech
+Dhruv Khanna Verma|MT24075|1375|B|Machine Learning|MTech
+Nisha Reddy Verma|MT24076|1376|B|Machine Learning|MTech
+Kunal Bansal Verma|MT24077|1377|B|Deep Learning|MTech
+Pooja Saxena Verma|MT24078|1378|B|Deep Learning|MTech
+Reyansh Jain Verma|MT24079|1379|B|Deep Learning|MTech
+Sneha Kulkarni Verma|MT24080|1380|B|Deep Learning|MTech
+Yash Thakur Verma|MT24081|1381|C|Advanced Database Systems|MTech
+Simran Kaur Verma|MT24082|1382|C|Advanced Database Systems|MTech
+Manav Sethi Verma|MT24083|1383|C|Advanced Database Systems|MTech
+Tanya Goyal Verma|MT24084|1384|C|Advanced Database Systems|MTech
+Harsh Vardhan Verma|MT24085|1385|C|Cloud Computing|MTech
+Neha Chauhan Verma|MT24086|1386|C|Cloud Computing|MTech
+Devansh Arora Verma|MT24087|1387|C|Cloud Computing|MTech
+Ritika Das Verma|MT24088|1388|C|Cloud Computing|MTech
+Siddharth Bose Verma|MT24089|1389|D|Distributed Systems|MTech
+Manya Shah Verma|MT24090|1390|D|Distributed Systems|MTech
+Krishna Menon Verma|MT24091|1391|D|Distributed Systems|MTech
+Shreya Pillai Verma|MT24092|1392|D|Distributed Systems|MTech
+Aniket Yadav Verma|MT24093|1393|D|Computer Vision|MTech
+Ira Chawla Verma|MT24094|1394|D|Computer Vision|MTech
+Om Prakash Verma|MT24095|1395|D|Computer Vision|MTech
+Diya Deshmukh Verma|MT24096|1396|D|Computer Vision|MTech
+Pranav Tiwari Verma|MT24097|1397|A|Advanced Data Structures and Algorithms|MTech
+Avni Bhatia Verma|MT24098|1398|A|Advanced Data Structures and Algorithms|MTech
+Akhil Nambiar Verma|MT24099|1399|A|Advanced Data Structures and Algorithms|MTech
+Muskan Ali Verma|MT24100|1400|A|Advanced Data Structures and Algorithms|MTech
